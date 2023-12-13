@@ -1,6 +1,10 @@
 # content-creator-vs-extension
 A code copilot for content creator
 
+## Tech
+- TypeScript for creating Visual Studio extension
+- GitHub Actions for CI/CD pipelines.
+
 ## Features
 - Connect with the desired blog posting tool.
   - [Hashnode](https://apidocs.hashnode.com)
