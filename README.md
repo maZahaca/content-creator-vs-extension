@@ -8,6 +8,9 @@ A code copilot for content creator
 - See a list of "Content Listings" on the side panel.
 - Be able to extend content with markdown description.
 
+## Competitors
+- [TypeIt](https://dev.to/mauro_codes/presenting-typeit-a-vscode-extension-for-content-creators-60d) - screen recording of typing code.
+
 ## Resources
 - [Taking a code screenshot with Carbon CLI](https://github.com/mixn/carbon-now-cli)
 - [Building Visual Studio Extensions / Official docs](https://code.visualstudio.com/api/get-started/your-first-extension)
