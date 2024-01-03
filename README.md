@@ -15,7 +15,7 @@ Introducing our groundbreaking Visual Studio Code extension designed exclusively
 - See a list of "Content Listings" on the side panel - different blog posts.
 - Be able to extend content with markdown as content and shape code blocks.
 
-## Competitors
+## Alternatives
 - [TypeIt](https://dev.to/mauro_codes/presenting-typeit-a-vscode-extension-for-content-creators-60d) - screen recording of typing code.
 
 ## Resources
