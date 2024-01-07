@@ -1,5 +1,5 @@
 # content-creator-vs-extension
-A code copilot for content creator
+A code copilot for content creators
 
 Introducing our groundbreaking Visual Studio Code extension designed exclusively for content creators – your ultimate code copilot in the creative realm! Seamlessly merging the worlds of coding and content creation, this innovative tool empowers you to effortlessly craft compelling blogs and records right from your coding studio. Say goodbye to the juggling act between your code editor and writing platform; our extension streamlines the process, allowing you to focus on what matters most—bringing your ideas to life. Elevate your content creation experience with a symbiotic fusion of coding efficiency and expressive storytelling. Unleash the full potential of your creativity with our Visual Studio Code extension – the indispensable companion for every modern content creator.
 
