@@ -10,6 +10,7 @@ Introducing our groundbreaking Visual Studio Code extension designed exclusively
 ## Features
 - Connect with the desired blog posting tool.
   - [Hashnode](https://apidocs.hashnode.com)
+  - [Twitter/X](https://twitter.com)
 - Select a code block and using the menu add it to one or another content listings.
   - it automatically uses carbon to create a code snippet image which can be used in the article.
 - See a list of "Content Listings" on the side panel - different blog posts.
