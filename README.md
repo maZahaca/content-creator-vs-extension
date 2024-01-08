@@ -22,3 +22,4 @@ Introducing our groundbreaking Visual Studio Code extension designed exclusively
 ## Resources
 - [Taking a code screenshot with Carbon CLI](https://github.com/mixn/carbon-now-cli)
 - [Building Visual Studio Extensions / Official docs](https://code.visualstudio.com/api/get-started/your-first-extension)
+- [Publish Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
