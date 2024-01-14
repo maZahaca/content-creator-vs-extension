@@ -23,3 +23,4 @@ Introducing our groundbreaking Visual Studio Code extension designed exclusively
 - [Taking a code screenshot with Carbon CLI](https://github.com/mixn/carbon-now-cli)
 - [Building Visual Studio Extensions / Official docs](https://code.visualstudio.com/api/get-started/your-first-extension)
 - [Publish Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+- VS Code extensions to make a screenshot: [one](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) and [another](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
